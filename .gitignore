@@ -89,8 +89,8 @@ target/
 # Virtual environment
 .venv/
 
-# Datasets
+# Other files
 Datasets
+# Models
 
-# testing file
 test.ipynb
